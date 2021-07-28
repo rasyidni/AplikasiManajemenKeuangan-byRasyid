@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805397609008",
+    "project_id": "loginumkm-c7a01",
+    "storage_bucket": "loginumkm-c7a01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805397609008:android:cd4c01fc5af28866aecbf5",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_manajemen_keuangan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805397609008-6ofqge411arotpqu2hs2cebp5s5gp36i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGpENgna0rELCxXUO9erC8AAo6ifN7NA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805397609008-6ofqge411arotpqu2hs2cebp5s5gp36i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
